@@ -1,0 +1,189 @@
+/* Ini untuk mengambil font dari google font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.btn:hover,
+.btn2:hover {
+  background-color: #abedd8;
+  color: black;
+}
+
+.btn3:hover {
+  background-color: #abedd8;
+}
+
+.b4 {
+  background-color: #abedd8;
+  border-radius: 10px;
+  width: 120px;
+}
+
+.b4:hover {
+  background-color: #ffff;
+}
+
+#infokandidat,
+#tempat,
+#hasilakhir,
+#registrasi,
+#login,
+#sementara,
+#votepemilih,
+#hasilsementara,
+#datavote{
+  padding-top: 8rem;
+}
+#hasilakhir2{
+  padding-top: 66px;
+}
+#teks {
+  padding-top: 6rem;
+}
+
+.judul {
+  background-color: #00b7a8;
+  width: 450px;
+  padding-top: 10px;
+  height: 50px;
+  border-radius: 15px;
+  margin-bottom: 4rem;
+}
+
+.Sortby {
+  margin-bottom: 4rem;
+}
+
+.bio {
+  background-color: #00b7a8;
+  border-radius: 15px;
+}
+
+.ket {
+  padding-top: 1rem;
+  margin-left: 7rem;
+  margin-right: 7rem;
+  background-color: #abedd8;
+  border-radius: 15px;
+  text-align: justify;
+}
+.page-link:hover {
+  background-color: #929292;
+}
+
+.p {
+  background-color: #c4c4c4;
+}
+
+.text {
+  margin-left: 100px;
+  margin-right: 40px;
+  width: 500px;
+}
+
+.img {
+  margin-left: 40px;
+  background-color: #00b7a8;
+  padding: 10px;
+}
+
+#chart {
+  margin-top: 200px;
+}
+
+#home {
+  background-color: #00b7a8;
+  padding-top: 10rem;
+  padding-bottom: 15rem;
+  padding: 150px;
+}
+
+.page-link:hover {
+  background-color: #929292;
+}
+
+.box3 {
+  background-color: #abedd8;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.cardvote {
+  background: #00b7a8;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.btn-votesekarang {
+  color: #ffff;
+  background-color: #00b7a8;
+  border-radius: 5px;
+  outline: none;
+}
+
+.btn-votesekarang:hover {
+  background-color: #abedd8;
+  color: black;
+  cursor: pointer;
+}
+
+.btnvote {
+  outline-style: auto;
+  color: black;
+  background-color: #abedd8;
+  opacity: 50%;
+}
+
+.copyright {
+  background-color: #00b7a8;
+  text-align: center;
+}
+
+#chart {
+  border-radius: 10px;
+  margin-right: 150px;
+  margin-left: 150px;
+  margin-top: 200px;
+  margin-bottom: 100px;
+  background-color: #00b7a8;
+  padding: 10px;
+}
+
+.imgvote {
+  margin-top: -90px;
+  background-color: #00b7a8;
+}
+.chart {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+aside{
+  width: 20%;
+  height: 100%;
+  background-color:#00b7a8;
+  padding-bottom: 22px;
+}
+
+.nama a{
+  color: #fff;
+  display: block;
+  width: 100%;
+  line-height: 47px;
+  text-decoration: none;
+  padding-left: 50px;
+  box-sizing: border-box;
+  transition: 0.5s;
+  transition-property: background;
+}
+
+.nama a:hover{
+  background-color: #abedd8;
+  color: #000;
+}
+
+.cardtempat, .hs {
+  margin: auto;
+}
